@@ -4,3 +4,7 @@
 [submodule "themes/resume"]
 	path = themes/resume
 	url = https://github.com/eddiewebb/hugo-resume.git
+[submodule "public"]
+	path = public
+	url = https://github.com/py563/py563.github.io.git
+	branch = master
