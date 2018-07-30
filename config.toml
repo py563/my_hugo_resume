@@ -1,4 +1,48 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.prajwalyashasvi.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "PYM"
+theme = "resume"
+enableGitInfo = true
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    firstName = "Prajwal"
+    lastName = "Maredukonda"
+    address = "South Bend, IN"
+    phone = "1-978-364-1279"
+    contactNote = "Dev Tools Engineer"
+    profileImage = "img/TechChat.png"
+    email = "prajwalyashasvi@yahoo.co.in"
+    description = "Software engineer and computer science graduate with programming interests in with Java, Python, SQL & C#. And also I equally care about Travel, Politics, Cricket, Formula 1, Movies and everything related to Boston and Hyderabad"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+	# do you want to show git hash on page footer and link to repo? Add commit prefix here.
+    gitCommitPrefix = "https://github.com/py563/json-resume/commit/"
+	
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/prajwalyashasvi/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/py563/"
+
+[[params.handles]]
+    name = "GitLab"
+    link = "https://gitlab.com/PY563"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/py563"
+	
