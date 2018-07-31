@@ -28,7 +28,7 @@ enableGitInfo = true
     showQr = true
 
 	# do you want to show git hash on page footer and link to repo? Add commit prefix here.
-    gitCommitPrefix = "https://github.com/py563/json-resume/commit/"
+    gitCommitPrefix = "https://github.com/py563/py563.github.io/commit/"
 	
 [[params.handles]]
     name = "LinkedIn"
