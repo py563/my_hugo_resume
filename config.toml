@@ -11,8 +11,7 @@ enableGitInfo = true
     firstName = "Prajwal"
     lastName = "Maredukonda"
     address = "South Bend, IN"
-    phone = "1-978-364-1279"
-    contactNote = "Dev Tools Engineer"
+    contactNote = "Software Engineer"
     profileImage = "img/TechChat.png"
     email = "prajwalyashasvi@yahoo.co.in"
     description = "Software engineer and computer science graduate with programming interests in with Java, Python, SQL & C#. And also I equally care about Travel, Politics, Cricket, Formula 1, Movies and everything related to Boston and Hyderabad"
@@ -28,7 +27,7 @@ enableGitInfo = true
     showQr = true
 
 	# do you want to show git hash on page footer and link to repo? Add commit prefix here.
-    gitCommitPrefix = "https://github.com/py563/py563.github.io/commit/"
+    gitCommitPrefix = "https://github.com/py563/my_hugo_resume/commit/"
 	
 [[params.handles]]
     name = "LinkedIn"
